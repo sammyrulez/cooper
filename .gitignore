@@ -5,3 +5,5 @@ target
 .springBeans
 .DS_Store
 .class
+.metadata
+Servers

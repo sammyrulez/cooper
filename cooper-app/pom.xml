@@ -24,11 +24,10 @@
       <version>${grails.version}</version>
       <type>pom</type>
     </dependency>
-	 <dependency>
+	<dependency>
       <groupId>cooper.prj</groupId>
-      <artifactId>cooper-api</artifactId>
-	   <version>1.0</version>
-      <scope>compile</scope>
+		<artifactId>cooper-service</artifactId>
+		<version>1.0</version>
     </dependency>
   </dependencies>
   <repositories>
